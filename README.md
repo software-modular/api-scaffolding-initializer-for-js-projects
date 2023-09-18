@@ -47,9 +47,9 @@ It is a template scaffolding repository, which have a specific organization of f
       + main-style.css
     + pages
       + main-page.html      
-+ statics [Static files]
-  + images
-    + main-image.(png,jpeg,etc...)
+  + statics [Static files]
+    + images
+      + main-image.(png,jpeg,etc...)
 + readme.md
 + .gitignore
 + .env
