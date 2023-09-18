@@ -5,7 +5,7 @@ It is a template scaffolding repository, which have a specific organization of f
 + node-modules [Node js packages]
 + build [builded and boundle source code app]
   + app.js 
-+ sources [All API source code]
++ app [All API source code]
   + configs [Config global project properties files]
     + app-config.js
     + databases-config
