@@ -3,7 +3,9 @@ It is a template scaffolding repository, which have a specific organization of f
 (API) using the Javascript technologies. It allow organize and manage the code resources using the next folder tree:
   
 + node-modules [Node js packages]
-+ sources [All API source code]
++ build [builded and boundle source code app]
+  + app.js 
++ app [All API source code]
   + configs [Config global project properties files]
     + app-config.js
     + databases-config
@@ -45,9 +47,9 @@ It is a template scaffolding repository, which have a specific organization of f
       + main-style.css
     + pages
       + main-page.html      
-+ statics [Static files]
-  + images
-    + main-image.(png,jpeg,etc...)
+  + statics [Static files]
+    + images
+      + main-image.(png,jpeg,etc...)
 + readme.md
 + .gitignore
 + .env
